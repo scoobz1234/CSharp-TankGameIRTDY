@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRTDY", "IRTDY.csproj", "{A960BB76-EC14-EAF5-7BA8-B88057C145B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRTDY.Editor", "IRTDY.Editor.csproj", "{3E71B0B2-30A8-7134-7EFB-6A16DEB83815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A960BB76-EC14-EAF5-7BA8-B88057C145B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A960BB76-EC14-EAF5-7BA8-B88057C145B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A960BB76-EC14-EAF5-7BA8-B88057C145B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A960BB76-EC14-EAF5-7BA8-B88057C145B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E71B0B2-30A8-7134-7EFB-6A16DEB83815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E71B0B2-30A8-7134-7EFB-6A16DEB83815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E71B0B2-30A8-7134-7EFB-6A16DEB83815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E71B0B2-30A8-7134-7EFB-6A16DEB83815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
